@@ -1,5 +1,0 @@
-com:
-  example:
-    profile: real
-    service: user
-    version: 2.1

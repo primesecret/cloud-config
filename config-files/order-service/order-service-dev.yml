@@ -1,0 +1,5 @@
+com:
+  example:
+    profile: dev
+    serviceName: order
+    version: 2.1
