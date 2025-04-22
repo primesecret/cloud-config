@@ -1,0 +1,5 @@
+com:
+  example:
+    profile: dev
+    service: user
+    version: 2.0

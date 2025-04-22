@@ -1,0 +1,5 @@
+com:
+  example:
+    profile: real
+    service: order
+    version: 1.1
